@@ -1,0 +1,14 @@
+.film
+{
+  height:100px;
+  width:100px;
+}
+.stars
+{
+  height:10px;
+}
+footer{
+  background-color:#000000;
+  height:50px;
+  padding:20px;
+}
